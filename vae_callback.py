@@ -14,7 +14,7 @@ class VAEcallback(Callback):
     
     #   Example
         '''python
-            img_saver = VAEcallback(self)
+            vaecb = VAEcallback(self)
         '''
     
     #   Arguments
