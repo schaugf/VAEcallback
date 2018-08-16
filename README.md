@@ -24,8 +24,8 @@ Each column thereby represents a different point along the unit CDF of the stand
 
 ##	Animated Learning
 
-![AnimRec](images/reconstructed_animated.gif)
-![AnimLat](images/latent_walk_animated.gif)
+![AnimRec](https://media.giphy.com/media/2fP81KLu8p5z0jL0lV/giphy.gif)
+![AnimLat](https://media.giphy.com/media/1yieJidjUArlJKBWK8/giphy.gif)
 
 Training can be visualized by generating animated gifs of both reconstruction and latent feature space during training.
 In this example, the model is trained for several hundred epochs, which appears to visually converge.
